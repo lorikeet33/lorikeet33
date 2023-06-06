@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lorikeet33
-- 👀 I’m interested in ... python, linux, macOS, c languages 
-- 🌱 I’m currently learning ... all of the above 
+- 👀 I’m interested in ... python, linux, macOS, c languages, Ada 
+- 🌱 I’m currently learning ... whatever I can 
 - 💞️ I’m looking to collaborate on ... nothing atm
 - 📫 How to reach me ... https://linktr.ee/astrolori
 
