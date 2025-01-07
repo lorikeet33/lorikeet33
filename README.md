@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lorikeet33
 - 👀 I’m interested in ... python, linux, macOS, c languages, Ada 
-- 🌱 I’m currently learning ... whatever I can 
+- 🌱 I’m currently learning ... C#
 - 💞️ I’m looking to collaborate on ... nothing atm
 
 
